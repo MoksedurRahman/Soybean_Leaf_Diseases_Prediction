@@ -1,1 +1,1 @@
-# Soybean_Leaf_Diseases_Prediction
+# Soybean Leaf Diseases Prediction
